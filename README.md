@@ -5,6 +5,11 @@
 A structural pattern observed across multiple systems where controlled loss
 (~30%) prevents recursive instability and brittle replication.
 
+![Fidelity Spectrum](fidelity-spectrum.png)
+
+_Systems optimized for exact replication become brittle.  
+Systems that reconstruct meaning with controlled loss (~30%) remain stable._
+
 ---
 
 Systems designed for perfect reproduction tend to fail in predictable ways.
@@ -175,6 +180,8 @@ A structural pattern that survived adversarial testing and appears to generalize
 *Take what's useful. Ignore the rest.*
 
 ---
+
+Status: Concept seed — v1.0
 
 *Part of an open research constellation on stability under constraint.*
 *MIT License — ideas are free.*
