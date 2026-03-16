@@ -186,4 +186,8 @@ A structural pattern that survived adversarial testing and appears to generalize
 *MIT License — ideas are free.*
 
 ---
-Status: Concept seed — v1.0
+## Status
+
+Concept seed — **v1.0**
+
+Extracted from a larger research constellation exploring stability under constraint.
