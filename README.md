@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+
 # The 70% Fidelity Principle
 
 > Loss is not a bug. It is a stability mechanism.
